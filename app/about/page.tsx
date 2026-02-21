@@ -50,7 +50,7 @@ export default function AboutPage() {
                     <div className="grid gap-6 sm:grid-cols-2">
                         <div className="relative aspect-[3/4] w-full mt-8 sm:mt-16 overflow-hidden rounded-lg">
                             <Image
-                                src="https://images.unsplash.com/photo-1503951914965-425486118a1b?auto=format&fit=crop&q=80&w=800"
+                                src="https://images.unsplash.com/photo-1596362601603-b74f6ef166e4?auto=format&fit=crop&q=80&w=800"
                                 alt="Barber working on client"
                                 fill
                                 className="object-cover"
@@ -58,7 +58,7 @@ export default function AboutPage() {
                         </div>
                         <div className="relative aspect-[3/4] w-full overflow-hidden rounded-lg">
                             <Image
-                                src="https://images.unsplash.com/photo-1534723452862-4c874018d66d?auto=format&fit=crop&q=80&w=800"
+                                src="https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&q=80&w=800"
                                 alt="Vintage barbershop chair"
                                 fill
                                 className="object-cover"
